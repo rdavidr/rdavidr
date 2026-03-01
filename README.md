@@ -1,108 +1,97 @@
-# Hi, I'm David Rodríguez! 👋
+  # Hi, I'm David Rodríguez! 👋
 
-**DevOps Engineer** | Cloud Infrastructure Expert | CI/CD Specialist
+  **Freelance DevOps Engineer** | Cloud Infrastructure | CI/CD | Kubernetes
 
-With over a decade of experience, I specialize in building and maintaining scalable, secure infrastructures, automating deployments, and implementing advanced monitoring solutions.
+  🌐 **[devopsfreelance.pro](https://www.devopsfreelance.pro)**
 
----
+  With over 15 years of experience in IT, I specialize in building scalable, secure cloud infrastructure, automating deployments, and managing production Kubernetes clusters. Currently working as a freelance
+   DevOps for clients in social media, fintech, and more.
 
-## 🚀 **Key Skills & Tools**
+  ---
 
-### **Technologies**
-- **Cloud Platforms:** AWS, GCP, Microsoft Azure, IBM Bluemix
-- **Infrastructure as Code:** Terraform, Ansible
-- **Containerization & Orchestration:** Kubernetes, Docker
-- **Monitoring & Logging:** Grafana, Prometheus, Splunk
-- **Scripting & Development:** Bash, Python, Git
-- **Server Administration:** Linux (Ubuntu, RedHat), VMware vSphere, Windows
-- **Web Servers & Load Balancers:** Nginx, Apache
+  ## 🚀 **Key Skills & Tools**
 
-### **Specialties**
-- CI/CD Pipeline Implementation
-- High Availability & Disaster Recovery
-- Cloud Migration & Optimization
-- Kubernetes Cluster Management
-- Secure Network Design (Vyatta, StrongSwan)
-- IT Infrastructure Automation
+  ### **Technologies**
+  - **Cloud Platforms:** AWS, Azure, GCP, IBM Cloud
+  - **Infrastructure as Code:** Terraform, Terragrunt, Ansible
+  - **Containerization & Orchestration:** Kubernetes (EKS, AKS, RKE), Docker, Helm, ArgoCD
+  - **CI/CD:** GitHub Actions, GitLab CI, Jenkins
+  - **Monitoring & Observability:** Prometheus, Grafana, Loki, New Relic, Splunk, ELK
+  - **Scripting:** Python, Bash
+  - **Networking & Security:** CCNA, Firewalls, VPN, WAF, IAM
+  - **Server Administration:** Linux (LFCS certified)
 
----
+  ---
 
-## 🏆 **Certifications**
+  ## 🏆 **Certifications**
 
-- **LFS260:** Kubernetes Security Essentials - The Linux Foundation (2022)
-- **LFCS:** Linux Foundation Certified System Administrator - The Linux Foundation (2017)
-- VMware Certified Professional - DataCenter Virtualization
-- Cisco Certified Network Associate (CCNA)
-- Oracle Certified Associate (OCA)
+  - **LFS260:** Kubernetes Security Essentials - The Linux Foundation (2022)
+  - **LFCS:** Linux Foundation Certified System Administrator - The Linux Foundation (2017)
+  - VMware Certified Professional - DataCenter Virtualization
+  - Cisco Certified Network Associate (CCNA)
+  - Oracle Certified Associate (OCA)
 
----
+  ---
 
-## 📚 **Education**
+  ## 📚 **Education**
 
-- **Diploma in Cybersecurity & Information Security** - Universidad de Palermo (2022)
-- **Linux Networking & Administration (LFS211)** - The Linux Foundation
-- **Kubernetes Fundamentals (LFS258)** - The Linux Foundation
-- **Splunk Advanced Dashboards & Visualizations** - Splunk Education
-- **ITIL® Foundation Certification** - Capacitarte UBA
+  - **Diploma in Cybersecurity & Information Security** - Universidad de Palermo (2022)
+  - **Linux Networking & Administration (LFS211)** - The Linux Foundation
+  - **Kubernetes Fundamentals (LFS258)** - The Linux Foundation
+  - **Splunk Advanced Dashboards & Visualizations** - Splunk Education
+  - **ITIL® Foundation Certification** - Capacitarte UBA
 
----
+  ---
 
-## 💼 **Professional Experience**
+  ## 💼 **Professional Experience**
 
-### **Independent DevOps Engineer** (2023 - Present)
-- Managing cloud infrastructures and CI/CD pipelines for various clients.
-- Focus on Kubernetes security and Terraform automation.
+  ### **Freelance DevOps Engineer** (2023 - Present)
+  - DevOps consulting for clients in social media, fintech, and more.
+  - Cloud infrastructure on AWS with Terraform/Terragrunt, Kubernetes clusters, CI/CD pipelines with GitHub Actions, and observability with Prometheus, Grafana, and Loki.
 
-### **DevOps Engineer at Tenpo** (2022 - 2023)
-- Enhanced cloud operations on AWS and GCP with robust CI/CD pipelines.
-- Deployed and managed Kubernetes clusters for production workloads.
+  ### **DevOps Engineer at Tenpo** (2022 - 2023)
+  - Managed Kubernetes clusters on AKS and RKE. Designed observability with New Relic, Fluentbit, and ELK. Administered Elasticsearch and Kafka. Enabled microservice deployments via GitLab pipelines.
 
-### **DevOps Engineer at Ualá** (2021 - 2022)
-- Automated deployments using Terraform and Helm for microservices architecture.
-- Designed scalable solutions on AWS for payment systems.
+  ### **DevOps Engineer at Ualá** (2021 - 2022)
+  - Designed cloud architecture for secure, resilient fintech infrastructure. Automated operations with serverless functions. Supported microservice and serverless deployments.
 
-### **Cloud Engineer at Globant** (2020 - 2021)
-- Improved monitoring with Grafana and Prometheus across multi-cloud environments.
-- Implemented disaster recovery plans for critical applications.
+  ### **Cloud Engineer at Globant** (2020 - 2021)
+  - Enterprise observability for a major airline. CI/CD pipelines with Splunk and Kubernetes.
 
-### **DevOps Engineer at Belatrix Software** (2018 - 2020)
-- Migrated legacy infrastructure to containerized workloads on Kubernetes.
-- Optimized application performance using Splunk and Prometheus.
+  ### **DevOps & Cloud Engineer at Belatrix Software** (2018 - 2020)
+  - Multi-cloud infrastructure (IBM, GCP, AWS) with Terraform and Ansible. Prometheus/Grafana monitoring. Linux/Windows server support.
 
-### **Systems Administrator at Vurbia Technologies** (2009 - 2018)
-- Administered VMware environments and deployed enterprise networks.
-- Ensured 24/7 availability for data center operations.
+  ---
 
----
+  ## 🌟 **Highlighted Projects**
 
-## 🌟 **Highlighted Projects**
+  - **Kubernetes Cluster Security:** Implemented advanced security policies using Calico and LFS260 standards.
+  - **CI/CD Pipeline Optimization:** Reduced deployment times by 40% using GitLab CI/CD and GitHub Actions.
+  - **Cloud Monitoring & Alerting:** Designed Grafana dashboards and Prometheus alerts for multi-region infrastructures.
+  - **Disaster Recovery Solutions:** Automated backup and recovery processes for mission-critical databases.
 
-- **Kubernetes Cluster Security:** Implemented advanced security policies using Calico and LFS260 standards.
-- **CI/CD Pipeline Optimization:** Reduced deployment times by 40% using GitLab CI/CD and GitHub Actions.
-- **Cloud Monitoring & Alerting:** Designed Grafana dashboards and Prometheus alerts for multi-region infrastructures.
-- **Disaster Recovery Solutions:** Automated backup and recovery processes for mission-critical databases.
+  ---
 
----
+  ## 📈 **GitHub Stats**
 
-## 📈 **GitHub Stats**
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdavidr&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdavidr&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdavidr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdavidr&layout=compact&theme=radical)
+  ---
 
----
+  ## 📫 **Connect with Me**
 
-## 📫 **Connect with Me**
+  - 🌐 **Website:** [devopsfreelance.pro](https://www.devopsfreelance.pro)
+  - 📝 **Blog:** [devopsfreelance.pro/blog](https://www.devopsfreelance.pro/blog)
+  - 💼 **LinkedIn:** [rdavidr](https://linkedin.com/in/rdavidr)
+  - 📧 **Email:** [david@devopsfreelance.pro](mailto:david@devopsfreelance.pro)
 
-- **Email:** [david@devopsfreelance.pro](mailto:david@devopsfreelance.pro)
-- **LinkedIn:** [rdavidr](https://linkedin.com/in/rdavidr)
-- **GitHub:** [rdavidr](https://github.com/rdavidr)
+  ---
 
----
+  ## 🎯 **What I'm Working On**
 
-## 🎯 **What I'm Working On**
-
-- Building secure multi-cloud architectures.
-- Exploring advanced Kubernetes networking and security.
-- Contributing to open-source DevOps tools.
-
----
+  - Freelance DevOps consulting for diverse clients.
+  - Building secure multi-cloud architectures.
+  - Exploring advanced Kubernetes networking and security.
+  
+  ---
